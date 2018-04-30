@@ -1,3 +1,4 @@
-# Angular structure example
+# AngularJS routing example using ngRoute
 
-Angular first simple example using ngRoute and different controllers for each page.
+AngularJS simple routing example using ngRoute and different controllers for each page.
+
